@@ -1,5 +1,6 @@
 # 🌌 HorizonAI 1.4 – Nexus Edition
 
+!FOR ISSUES CONCERNING HOW TO RUN IT AND WHICH PARTS IN THE CODE DO WHICH, I LISTED A LOT OF INSTRUCTIONS!
 Next-Gen Information Gathering Intelligence brought to the public by NotNerdz
 
 HorizonAI is a powerful, modular, and highly adaptive AI system designed to redefine automated information gathering. Built for speed, precision, and scalability, the 1.4 Nexus Edition introduces cutting-edge capabilities in natural language processing, real-time data parsing, and intelligent response prioritization—making it ideal for developers, researchers, and digital analysts.
